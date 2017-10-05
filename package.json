@@ -3,6 +3,6 @@
     "bookmarklet": "^0.0.6"
   },
   "scripts": {
-    "build": "bookmarklet src/amazonToJp.js dist/amazonToJp.txt & bookmarklet src/amazonToUs.js dist/amazonToUs.txt"
+    "build": "python build.py"
   }
 }
