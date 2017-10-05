@@ -1,0 +1,1 @@
+javascript:(function()%7B(function()%7Bvar%20t%3Dlocation.href%2Co%3Ddocument.title%2Ci%3D%22%5B%22%2Bo%2B%22%5D(%22%2Bt%2B%22)%22%3Bwindow.prompt(%22link%20to%20this%20page%3A%22%2Ci)%7D)()%3B%7D)()
