@@ -6,6 +6,7 @@ This is a collection of my bookmarklets.
 - `AmazonToJp.txt`: Opens the new product page in Amazon JP. This works only with pages in Amazon store (which is amazon.co.jp in my case).
 - `getLinkHtml.txt`: Generates an HTML link to the current page and display it in a popup dialog.
 - `getLinkMarkdown.txt`: Generates a Markdown link to the current page and display it in a popup dialog.
+- `duplicateTab.txt`: Duplicates the current tab.
 
 The file structure is as following.
 
