@@ -1,0 +1,1 @@
+javascript:(function()%7B(function()%7Bwindow.open(document.URL%2C%22_blank%22)%7D)()%3B%7D)()
