@@ -1,0 +1,1 @@
+javascript:(function()%7B(function()%7Bprompt(%22Current%20path%22%2Clocation.pathname)%7D)()%3B%7D)()
